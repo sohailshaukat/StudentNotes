@@ -16,4 +16,7 @@
 - Add : Adding changes done to files/project
 	- `git add .`
 	- `git add filename`
-- 
+- Commit : Committing my added / staged changes
+	- `git commit -m "first commit"`
+- Push : Pushing your changes to remote / origin
+	- `git push -u origin master`
