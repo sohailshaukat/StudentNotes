@@ -1,0 +1,91 @@
+{
+  "main": {
+    "id": "f0abad3b2a664762",
+    "type": "split",
+    "children": [
+      {
+        "id": "3358adadc2cc19a7",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Setup.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c6a0a8d9801bbf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "16ddec41731aa563",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58e46ec1d7758a94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c3d5122f0e6abd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a06611846bbaa31f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6485a7f5cf4caead",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28ee540304670058",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Setup.md"
+  ]
+}

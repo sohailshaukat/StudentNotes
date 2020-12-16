@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "658858a1d4226049",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdd1631fc698c6f3",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "GitHub/Setup.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b9d124c6055e250",
+    "type": "split",
+    "children": [
+      {
+        "id": "81dd42d2355b44b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "891f73f695afd9d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e37ea8dfcb9388c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336
+  },
+  "right": {
+    "id": "9a5a34fa13c511b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "318c8ea5dba3af92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37b143cbe592101a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GitHub/Setup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "GitHub/Setup.md",
+    "Python/Intro.md",
+    "Python/Untitled.md",
+    "Setup.md",
+    "Untitled.md",
+    "GitHub/Untitled.md"
+  ]
+}
