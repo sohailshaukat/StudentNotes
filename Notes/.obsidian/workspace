@@ -6,11 +6,12 @@
       {
         "id": "bdd1631fc698c6f3",
         "type": "leaf",
+        "dimension": 49.848208864602306,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/DataType.md",
+            "file": "Python/Control-Flows-And-Loops.md",
             "mode": "source"
           }
         },
@@ -19,10 +20,11 @@
       {
         "id": "8fcae62a31e39442",
         "type": "leaf",
+        "dimension": 50.151791135397694,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python/DataType.md",
+            "file": "Python/Control-Flows-And-Loops.md",
             "mode": "preview"
           }
         },
@@ -66,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336
+    "width": 213
   },
   "right": {
     "id": "9a5a34fa13c511b3",
@@ -82,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/DataType.md",
+                "file": "Python/Control-Flows-And-Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,9 +101,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Python/Control-Flows-And-Loops.md",
     "Python/DataType.md",
-    "Python/Intro.md",
+    "Python/Python.md",
     "Python/Untitled.md",
+    "Python/Intro.md",
     "GitHub/Setup.md",
     "Setup.md",
     "Untitled.md",
