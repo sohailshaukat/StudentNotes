@@ -62,3 +62,72 @@ else:
 - Gives **True** if all in comparison are **True**
 ## not 
 - Inverses
+
+
+# Loops
+- To repeat a certain instruction(s).
+- set of times
+	- I want to click a button 5 times
+- set of elements, I want to do something for each element in that collectible
+	- I want to convert each letter in Zahid's name to uppercase
+	- I want to find inverse of each integer in a list
+	- I want to do something ```for each``` element
+
+
+# For loop
+- C, Java ``` for (i=0;i<9;i++){}```
+	- ``` for (init, condi, inc/dec)```
+	- ``` for (i=1; i<=10; i++) ```  this will yield 1-10
+	- ``` for (i=1; i<=10; i++2) ```  this will yield 1,3,5,7,9
+- Python
+	- ```for element in iterable```
+	- ```for i in range(11):``` this will yield 0-10
+	- ```for i in range(1,11):``` this will yield 1-10
+	- ```for i in range(1,11,2):``` this will yield 1,3,5,7,9
+		- **range** : range returns a iterable.
+			- Where 
+				- First argument is lowerlimit
+				- Second argument is upperlimit (exclude)
+				- Third argument is step
+	- ```for let in "zahid":``` let = z, a, h, i, d
+	- ```for let in [1,2,3,4,5]:``` let = 1,2,3,4,5
+	- ```for let in [(1,"a"),(2,"b"),(3,"c"),(4,"d"),(5,"e")]:``` let = (1,a) ,(2,b) ,(3,c) ,(4,d) , (5,e)
+	- ```for l1, l2 in [(1,a),(2,b),(3,c),(4,d),(5,e)]:```
+		- l1 = 1 ; l2 =a 
+		- l1 = 2 ; l2 =b
+	- Tuple unpacking :  name1, name2 = "zahid" , "sharik"
+	- ![[Pasted image 20201224173504.png]]
+	
+# while loop
+- C, Java ```while i<9```
+	- ``` init; while condi{ inc/dec }```
+	- Infinite loop ``` while condi=True ```
+	```
+	i = 1	#init
+	while i < 11:	#condi
+		print(i)
+		i += 1	#inc/dec
+	```
+	- Working with iterable
+	```
+	s, i = "zahid", 0
+	while i < len(s):
+		print(s[i])
+		i += 1
+		
+	results = [(1,"Fail"),(2,"Pass"),(3,"Fail"),(4,"Pass"),(5,"Fail")]		
+	i = 0
+	while i < len(results):
+		print(results[i])
+		i += 1	
+		
+	results = [(1,"Fail"),(2,"Pass"),(3,"Fail"),(4,"Pass"),(5,"Fail")]		
+	i = 0
+	while i < len(results):
+		num, res = results[i]
+		print(num, res)
+		i += 1	
+	```
+	
+	![[Pasted image 20201224174144.png]]
+	![[Pasted image 20201224174058.png]]

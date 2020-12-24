@@ -6,7 +6,7 @@
       {
         "id": "bdd1631fc698c6f3",
         "type": "leaf",
-        "dimension": 49.848208864602306,
+        "dimension": 49.8482088646023,
         "active": true,
         "state": {
           "type": "markdown",
@@ -20,7 +20,7 @@
       {
         "id": "8fcae62a31e39442",
         "type": "leaf",
-        "dimension": 50.151791135397694,
+        "dimension": 50.1517911353977,
         "state": {
           "type": "markdown",
           "state": {
@@ -102,9 +102,9 @@
   },
   "lastOpenFiles": [
     "Python/Control-Flows-And-Loops.md",
+    "Python/Untitled.md",
     "Python/DataType.md",
     "Python/Python.md",
-    "Python/Untitled.md",
     "Python/Intro.md",
     "GitHub/Setup.md",
     "Setup.md",
