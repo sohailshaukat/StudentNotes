@@ -20,3 +20,5 @@
 	- `git commit -m "first commit"`
 - Push : Pushing your changes to remote / origin
 	- `git push -u origin master`
+- Pull : To pull changes from remote / origin
+	- `git pull`

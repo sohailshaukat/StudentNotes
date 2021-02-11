@@ -11,7 +11,3 @@
 	- ![[Pasted image 20201217154753.png]]
 - Shell
 	- ![[Pasted image 20201217154456.png]]
-
-
-
-slhidfasogfhisdfhil
